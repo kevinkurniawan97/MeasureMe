@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282637280488",
+    "firebase_url": "https://measureme-efa7e.firebaseio.com",
+    "project_id": "measureme-efa7e",
+    "storage_bucket": "measureme-efa7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282637280488:android:f79f417f9fb7b6ac",
+        "android_client_info": {
+          "package_name": "com.example.kevin.measureme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282637280488-6vus7kv25575qot8abm29bf82695pgln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevin.measureme",
+            "certificate_hash": "60bf6525dcd91bbf590b85fb3247377493c6a35f"
+          }
+        },
+        {
+          "client_id": "282637280488-9i20cmk32dd4eajv56ktipear88hgtt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlb_q7ZPiILKG8DPwphQuh9EJyU5hKYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282637280488-9i20cmk32dd4eajv56ktipear88hgtt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
